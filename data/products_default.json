@@ -1,0 +1,19 @@
+{
+	"products" : [
+		{
+			"id" : "1",
+			"name" : "Coca-cola",
+			"value" : "3.5"
+		},
+		{
+			"id" : "2",
+			"name" : "Pão de queijo",
+			"value" : "2"
+		},
+		{
+			"id" : "3",
+			"name" : "Água Mineral",
+			"value" : "1.5"
+		}
+	]
+}
